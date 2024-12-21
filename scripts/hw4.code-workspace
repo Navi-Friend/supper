@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "hw4",
+			"path": ".."
+		},
+		{
+			"name": "hw3",
+			"path": "../../hw3"
+		},
+		{
+			"path": "../../../web-design/Grid form"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Grid form"
+	}
+}
